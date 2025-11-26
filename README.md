@@ -2,7 +2,7 @@
 
 I am an independent and technology-driven **Master's student in Industrial Economics**, specializing in **Mechanical Engineering** at **Norwegian University of Life Sciences (NMBU)**. I focus on mechanical design, development, and innovative engineering projects.
 
-I have hands-on experience with **CAD, generative design, prototyping**, and operational defense projects. I take initiative and work methodically from concept to finished solution, with a strong interest in creative engineering.
+I have hands-on experience with **CAD, generative design, prototyping**, and several student projects at Eik-Lab.
 
 ---
 
