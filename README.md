@@ -4,21 +4,18 @@ I am an independent and technology-driven **Master's student in Industrial Econo
 
 I have hands-on experience with **CAD, generative design, prototyping**, and several student projects at Eik-Lab.
 
----
 
 ## 💼 Current Projects
 
 **Antidrone Platform – Kongsberg Defence & Aerospace (2025 – Present)**  
 Development of an autonomous platform for detection and neutralization of drone threats. Responsible for 3D modeling, mechanical design, and prototype production. The system is currently in its third iteration.
 
----
 
 ## 🛠 Skills
 
 - **CAD & Design:** SolidWorks (Certified), Inventor, Fusion360  
 - **Other Tools:** Excel (Certified), Figma, 3D Printing  
 
----
 
 ## 💡 Interests
 
